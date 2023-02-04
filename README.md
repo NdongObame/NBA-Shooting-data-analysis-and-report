@@ -1,2 +1,2 @@
 # NBA-Shooting-data-analysis-and-report
-Data analytics with pyhton (report). This analysis was done on a dataset containing shooting statistics for four different players during the 2021 NBA Playoffs.
+Data analytics with pyhton (report). This analysis was done on a dataset containing shooting statistics for four different players during the 2021 NBA Playoffs. In order to provide data-driven recommendations to improve the university basketball team performance. The main focus of this analysis was on how we can increase the team chances\ likelihood of making successful shots.
